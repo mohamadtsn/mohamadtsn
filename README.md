@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadtsn&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadtsn" /> </p>
 
-[![Typing Position](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
